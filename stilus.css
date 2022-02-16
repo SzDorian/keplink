@@ -7,6 +7,15 @@ p{
   font-family: 'Mochiy Pop P One', sans-serif;
   font-size: 20px;
 }
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:yellow;
+  color: black;
+  text-align: center;
+}
 
 h1{
   font-family: 'Dancing Script', cursive;
